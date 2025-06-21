@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+gtts
+PyMuPDF
+openai-whisper
+torch
+python-multipart
